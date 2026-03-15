@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1,
+    "nombreSuperheroe": "Spideman",
+    "nombreReal": "Peter Parker",
+    "nombreSocial": "Vigulante",
+    "edad": 25,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Radiactividad",
+    "poder": [
+      "Trepar paredes",
+      "Sentido aracnido",
+      "Super fuerza",
+      "Agilidad"
+    ],
+    "habilidadEspecial": "Redes de telaraña",
+    "aliados": [
+      "Iroman"
+    ],
+    "enemigos": [
+      "Duende verde"
+    ]
+  },
+  {
+    "id": 2,
+    "nombreSuperheroe": "Iroman",
+    "nombreReal": "Tony Stark",
+    "nombreSocial": "Vigilante",
+    "edad": 45,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Dependiente de la tecnologia",
+    "poder": [
+      "Armadura blindada",
+      "Volar",
+      "Laseres"
+    ],
+    "habilidadEspecial": "Ingenieria avanzada",
+    "aliados": [
+      "Spiderman"
+    ],
+    "enemigos": [
+      "El Mandarin"
+    ]
+  },
+  {
+    "id": 3,
+    "nombreSuperheroe": "Thor",
+    "nombreReal": "Thor Odison",
+    "nombreSocial": "Dios del trueno",
+    "edad": 1000,
+    "planetaOrigen": "Asgard",
+    "debilidad": "Destruir su martillo",
+    "poder": [
+      "Control del trueno",
+      "Fuerza sobrehumana",
+      "Inmortal"
+    ],
+    "habilidadEspecial": "Invocacion de tormentas",
+    "aliados": [
+      "Loki"
+    ],
+    "enemigos": [
+      "Hela"
+    ]
+  },
+  {
+    "id": 4,
+    "nombreSuperheroe": "BLack widow",
+    "nombreReal": "Vigilante",
+    "nombreSocial": 33,
+    "edad": "Tierra",
+    "planetaOrigen": "Ninguna conocida",
+    "debilidad": [
+      "Maestra de en combate",
+      "Espionaje"
+    ],
+    "poder": "Entrenamiento Elite"
+  },
+  {
+    "id": 5,
+    "nombreSuperheroe": "Hulk",
+    "nombreReal": "Vigilante",
+    "nombreSocial": 40,
+    "edad": "Tierra",
+    "planetaOrigen": "Control emocional",
+    "debilidad": [
+      "Fuerza bruta",
+      "Resistencia"
+    ],
+    "poder": "Regeneracion rapida"
+  },
+  {
+    "id": 6,
+    "nombreSuperheroe": "Capitan america",
+    "nombreReal": "Vigilante",
+    "nombreSocial": 103,
+    "edad": "Tierra",
+    "planetaOrigen": "No tiene habilidades sobre humanas",
+    "debilidad": [
+      "Fuerza aumentada",
+      "Agilidad"
+    ],
+    "poder": "Escudo indestructible"
+  },
+  {
+    "id": 7,
+    "nombreSuperheroe": "Doctor Strange",
+    "nombreReal": "Hechicero Supremo",
+    "nombreSocial": 40,
+    "edad": "Tierra",
+    "planetaOrigen": "Desconocida",
+    "debilidad": [
+      "Magia",
+      "Teletransportacion"
+    ],
+    "poder": "Hechizos poderosos"
+  }
+]
